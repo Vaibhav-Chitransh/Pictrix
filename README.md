@@ -1,1 +1,1 @@
-# AlgoGenie
+# Pictrix
